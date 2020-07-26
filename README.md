@@ -22,9 +22,7 @@ const Naccl = {
             Python: ["Flask"]
         },
         databases: ["MySQL", "SQLite"],
-    },
-    currentProject: "I am developing personal blog system using Spring Boot and Vue",
-    Joke: "My program has no bugs."
+    }
 };
 ```
 
