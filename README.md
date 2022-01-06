@@ -13,7 +13,7 @@
 
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/?username=Naccl&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true" alt="GitHub Status">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naccl&layout=compact&theme=tokyonight" alt="Most Used Languages">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/?username=Naccl&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true" alt="GitHub Status">
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naccl&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 💾 EOF
