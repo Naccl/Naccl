@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Naccl.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2 align="center">👋 Hey! I'm Naccl.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
 :heart: :icecream: :strawberry: :milk_glass: :video_game: :computer: :musical_note:
 
