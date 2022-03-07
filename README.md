@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm Naccl.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-:heart: :icecream: :strawberry: :milk_glass: :video_game: :computer: :musical_note:
+:heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
 [![Naccl's Blog](https://img.shields.io/badge/-Naccl's%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://naccl.top)
 [![Telegram](https://img.shields.io/badge/-t.me/NacclOfficial-17c0eb?style=flat-square&logo=Telegram)](https://t.me/NacclOfficial)
